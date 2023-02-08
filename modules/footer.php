@@ -1,6 +1,6 @@
 	</div>
-		<footer>
-			<p>&copy; 2017 mAttendance. 
+		<footer style="background-color: black;">
+			<p>&copy; 2023 TrackZ. 
 				
 			</p>
 		</footer>
