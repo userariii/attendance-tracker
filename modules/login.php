@@ -1,7 +1,8 @@
 <div class="container">
   <div class="row">
     <div class="col-md-6 col-md-offset-3 col-lg-6 text-center">
-      <img src="images/mattendance_logo_small.png" alt="mAttendance">
+      <!-- todo : replace this  -->
+      <img src="images/TrackZ.png" alt="mAttendance">
       <h3>Teacher's Section</h3>
     </div>
   </div>
