@@ -3,11 +3,13 @@
 ?>
 
 <?php if (isset($_SESSION['islogin']) && $_SESSION['islogin'] == 1) : ?>
-	<nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
+	<nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation" style="background-color: black;">
 			<ul class="nav sidebar-nav">
 					<li class="sidebar-brand">
-							<a href="index.php">
-								<img src="images/mattendance_logo_small.png" alt="mAttendance">
+							<a href="index.php" style="display: flex;
+    align-items: center;
+    justify-content: center; padding-top: 5px">
+								<img src="images/TrackZ.png" alt="mAttendance" style="max-height: 50px;">
 							</a>
 					</li>
 					<li>
