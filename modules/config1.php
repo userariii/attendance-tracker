@@ -1,7 +1,7 @@
 <?php
 
 	$databaseHost = 'localhost';
-	$databaseName = 'mattendance';
+	$databaseName = 'trackz';
 	$databaseUsername = 'root';
 	$databasePassword = '';
 	
